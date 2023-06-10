@@ -1,4 +1,4 @@
-img align="right" alt="GIF" src="[https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true](https://cdn.discordapp.com/emojis/1108890577153572894.gif?size=80&quality=lossless)" width="500" height="320" />
+![1108890577153572894](https://github.com/draggw/draggw/assets/134173896/c8ba1e62-a834-4549-96d7-5101ecd9f167)
 
 ##
 - 🔭 Öğrenmeye çalışıyorum.
